@@ -15,8 +15,8 @@
   </properties>
 
   <modules>
-    <module>cas2text</module>
     <module>datasheet-text-processor</module>
+    <module>cas2text</module>
     <module>error-processor</module>
   </modules>
 
