@@ -1,9 +1,9 @@
-[submodule "error-processor"]
-	path = error-processor
-	url = git@code.vt.edu:hsiao-nlp-research/error-processor.git
-[submodule "cas2text"]
-	path = cas2text
-	url = git@code.vt.edu:hsiao-nlp-research/cas2text
 [submodule "datasheet-text-processor"]
 	path = datasheet-text-processor
-	url = git@code.vt.edu:hsiao-nlp-research/datasheet-text-processor
+	url = git@github.com:studeo14/dtp.git
+[submodule "cas2text"]
+	path = cas2text
+	url = git@github.com:studeo14/c2t.git
+[submodule "error-processor"]
+	path = error-processor
+	url = git@github.com:studeo14/ep.git
